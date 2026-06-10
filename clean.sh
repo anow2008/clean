@@ -1,4 +1,4 @@
-#!/sh
+#!/bin/sh
 # Script to clear RAM memory on Vu+ Zero 4K (Cacheflush alternative)
 
 echo "=========================================="
